@@ -73,12 +73,6 @@ Jika memiliki satu atau beberapa akun dengan AdSense, AdMob, atau Ad Manager, An
 Jika Anda mengedit informasi bisnis untuk sellers.json di AdSense, AdMob, atau Ad Manager, informasi Anda akan diperbarui di semua produk. Misalnya, jika Anda membuka akun AdSense dan mengaktifkan transparansi Seller.json, tindakan ini juga akan otomatis mengaktifkan transparansi pada akun Ad Manager dan AdMob Anda.
 
 "Nama domain bisnis Anda mungkin tersembunyi di seller.json hingga kami memverifikasi bahwa Anda adalah pemilik URL. Domain bisnis Anda juga dapat dihilangkan jika akun Anda disetel ke rahasia atau jika bisnis Anda tidak memiliki situs"
- ((((https://support.google.com/admob/answer/9884382?hl=id#:~:text=Nama%20domain%20bisnis%20Anda%20mungkin%20tersembunyi%20di%20seller.json%20hingga%20kami%20memverifikasi%20bahwa%20Anda%20adalah%20pemilik%20URL.%20Domain%20bisnis%20Anda%20juga%20dapat%20dihilangkan%20jika%20akun%20Anda%20disetel%20ke%20rahasia%20atau%20jika%20bisnis%20Anda%20tidak%20memiliki%20situs)))) 
- apakah menurut anda hal yang seperti ini ada dalam kode etik atau tidak. 
- mari kita baha
-
-Perusahaan Contoh Inc. memiliki akun untuk AdMob (pub-9876543210123456), AdSense (pub-1122334455667788), dan Ad Manager (pub-1234567890123456).
-
 Perusahaan Contoh Inc. mengaktifkan transparansi di akun Ad Manager (pub-1234567890123456). Akun AdMob dan akun AdSense Perusahaan Contoh Inc. akan diperbarui secara otomatis untuk mengaktifkan transparansi.
 
 Saat Perusahaan Contoh Inc. memperbarui domain bisnis menjadi example.com di AdSense, akun Ad Manager dan AdMob miliknya akan otomatis diperbarui sehingga juga menyertakan domain bisnis example.com.
