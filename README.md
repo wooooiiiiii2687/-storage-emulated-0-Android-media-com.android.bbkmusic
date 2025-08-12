@@ -113,4 +113,4 @@
 
 <!-- wp:paragraph -->
 <p>Berikutnya: Transparansi bid dengan objek Supply Apakah ini membantu? YaTidak PerSupplylain? Coba langkah-langkah selanjutnya berikut: Posting ke komunitas bantuan Dapatkan jawaban dari anggota komunitas Hubungi kami Beri tahu kami selengkapnya dan kami akan membantu Anda</p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph --> acidabdulrazied@gmail.com
